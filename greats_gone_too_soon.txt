@@ -1,22 +1,22 @@
 Guns
-25 Tupac Shakur
-24 The Notorious BIG
-24 Big L
-20 XXXTentacion
-33 Nipsey Hussle
-20 Pop Smoke
-36 Young Dolph
-28 Takeoff
+24 Big L 				      02/15/1999
+25 Tupac Shakur 		  09/13/1996
+24 The Notorious BIG  03/09/1997
+20 XXXTentacion 		  06/18/2018
+33 Nipsey Hussle 		  03/31/2019
+20 Pop Smoke 			    02/19/2020
+36 Young Dolph 			  11/17/2021
+28 Takeoff 				    11/01/2022
 
 Drug Overdose
-29 DJ Screw
-33 Pimp C
-21 Lil Peep
-26 Mac Miller
-21 Juice WRLD
-33 Rich Homie Quan
+29 DJ Screw				    11/16/2000
+33 Pimp C				      12/04/2007
+21 Lil Peep				    11/15/2017
+26 Mac Miller			    09/07/2018
+21 Juice WRLD			    12/08/2019
+33 Rich Homie Quan		09/05/2024
 
-Accidental & Other Causes
-22 Trouble T Roy
-28 Big Pun
-48 Guru
+Other Causes
+22 Trouble T Roy		  07/15/1990
+28 Big Pun				    02/07/2000
+48 Guru					      04/19/2010
