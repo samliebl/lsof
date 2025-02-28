@@ -8,3 +8,4 @@ This is important work.
 
 - BestNewGirlRecurringCharacters.txt
 - Best New Girl One-off, single-episode guest stars.txt
+- greats_gone_too_soon.txt
